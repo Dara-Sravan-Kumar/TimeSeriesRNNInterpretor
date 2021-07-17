@@ -1,6 +1,5 @@
 # TimeSeriesRNNInterpretor
 
-[![Build Status]("Passing")](Passing)
 
 TimeSeriesRNNInterpretor, Interprets the RNN black box model. It internally uses shap.DeepExplainer. We have tried to interpret only single instance with respect to time. We have additionally included monthly effect of the instance.
  
